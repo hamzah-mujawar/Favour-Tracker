@@ -1,1 +1,1 @@
-# Favour-Tracker
+# FavourTracker
